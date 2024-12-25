@@ -1,0 +1,17 @@
+#container {
+    width: 40%;
+}
+
+#messages {
+    list-style: none;
+    background-color: whitesmoke;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 4px;
+}
+
+input,
+button {
+    padding: 4px;
+}
